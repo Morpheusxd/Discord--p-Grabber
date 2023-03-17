@@ -1,4 +1,4 @@
-# Discord--p-Grabber
+# Discord ip Grabber
 Discord İp Grabber
 
 
